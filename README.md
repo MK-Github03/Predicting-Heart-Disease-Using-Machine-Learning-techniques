@@ -7,7 +7,7 @@ Heart disease remains one of the leading causes of death globally. Early diagnos
 ## Dataset
 The dataset used in this project consists of 918 patient records with 12 attributes. It includes various clinical parameters such as age, cholesterol levels, blood pressure, and exercise response to determine a patient’s likelihood of developing heart disease.
 
-- **Dataset Source:** [Kaggle - Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+- **Dataset Source:** [Kaggle - Heart Failure Prediction](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) - [CLICK HERE](https://github.com/MK-Github03/Predicting-Heart-Disease-Using-Machine-Learning-techniques/blob/main/heart.csv)
 - **Features:**
   - **Predictor Variables:** Age, Sex, Chest Pain Type, Resting Blood Pressure, Cholesterol, Fasting Blood Sugar, Resting ECG, Max Heart Rate, Exercise-Induced Angina, Oldpeak (ST Depression), ST Slope.
   - **Target Variable:** `HeartDisease` (Binary: `1 = Heart Disease`, `0 = No Heart Disease`)
